@@ -1,0 +1,20 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+       |-----handy-ruler------------------------------------------------------|
+monero: monero
+monero: 
+monero: Unbound is a validating, recursive, caching DNS resolver.
+monero: It is designed to be fast and lean and incorporates modern features
+monero: based on open standards.  To help increase online privacy, Unbound  
+monero: supports DNS-over-TLS which allows clients to encrypt their 
+monero: communication. In addition, it supports various modern standards 
+monero: that limit the amount of data exchanged with authoritative servers.
+monero: These standards dont only improve privacy but also help making the  
+monero: DNS more robust. The most important are Query Name Minimisation,
+monero: the Aggressive Use of DNSSEC-Validated Cache and support for 
+monero: authority zones, which can be used to load a copy of the root zone.
